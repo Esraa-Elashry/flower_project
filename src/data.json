@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Happy Birthday Gift",
+            "description": "A beautiful birthday gift featuring a charming flower arrangement and a delicious miniature iced birthday cake. White Freesias are joined by a delightful mix of lilac, cerise and two-tone pink Spray Carnations while white Gypsophila provides the perfect finishing touch.  The cake is a 6cm x 6cm iced fruitcake and may contain nuts.",
+            "img": "1.webp",
+            "price": 360,
+            "category": "rose"
+        },
+        {
+            "id": 2,
+            "name": "Birthday Pizza Gift",
+            "description": "This classic collection includes gorgeous golden Carnations and yellow Alstroemeria, beautifully finished with stems of Solidago and Gypsophila.    This gift also includes a mini chocolate 'Happy Birthday' pizza. Hand made using fine quality Belgian chocolate, it is sure to make their day extra special!",
+            "img": "2.jpg",
+            "price": 80,
+            "category": "white"
+        },
+        {
+            "id": 3,
+            "name": "Rose Sensation",
+            "description": "An attractive display of striking Roses in autumnal shades of red, yellow and orange, beautifully finished with red Oak Leaves and Alstroemeria. Presented in a decorative holder, this bouquet needs no arranging and is ready-to-display upon arrival",
+            "img": "m3.webp",
+            "price": 95,
+            "category": "pink"
+        },
+        {
+            "id": 4,
+            "name": "Autumn Freesias & Roses",
+            "description": "Gorgeous orange Roses and deep red Freesias make this seasonal bouquet a wonderful gift to send to mark a special occasion. Stems of complementing red Oak leaves provide that extra special touch.",
+            "img": "m4.webp",
+            "price": 77,
+            "category": "green"
+        },
+        {
+            "id": 5,
+            "name": "Laura",
+            "description": "A lovely collection of white Athena Roses paired with lavender Freesias, and gently complemented by scented stems of Eucalyptus.Our letterbox flower gifts are delivered in specially designed letterbox friendly packaging and protected by fully compostable brown paper wrap, ensuring a wonderful and creative gift for the recipient.",
+            "img": "2m.webp",
+            "price": 100,
+            "category": "white"
+        }
+        ]
+}

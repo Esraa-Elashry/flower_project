@@ -1,0 +1,26 @@
+
+nav{
+  background-color: #e6ddd1;
+}
+.main{
+  min-height: 700px;
+}
+footer{
+  background-color: #e6ddd1;
+}
+.prise{
+  margin: auto;
+}
+
+.card{
+  background-color: #fff1fa;
+}
+.loginform, .registerform{
+  background-color: rgb(247, 187, 187);
+
+}
+body{
+  background-color: 
+  #f7e3e3;
+  font-family: cursive;
+}
